@@ -56,7 +56,7 @@ border-bottom: 0.6em solid #2169d6;
 .parallax {
     height: 100%;
     /* The image used */
-    background-image: url("/montclaireroofing/public/images/background_1.jpg");
+    background-image: url("/public/images/background_1.jpg");
   
     /* Set a specific height */
     min-height: 500px; 
