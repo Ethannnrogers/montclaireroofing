@@ -18,31 +18,31 @@ $(document).ready(function() {
     $("#home").click(function() {
         $('html, body').animate({
             scrollTop: $("#nav").offset().top
-        }, 800);
+        }, 1400);
     });
 
     $("#services").click(function() {
         $('html, body').animate({
             scrollTop: $("#section-1").offset().top
-        }, 800);
+        }, 1400);
     });
 
     $("#about").click(function() {
         $('html, body').animate({
             scrollTop: $("#section-2").offset().top
-        }, 800);
+        }, 1400);
     });
 
     $("#partners").click(function() {
         $('html, body').animate({
             scrollTop: $("#section-3").offset().top
-        }, 800);
+        }, 1400);
     });
 
     $("#contact").click(function() {
         $('html, body').animate({
             scrollTop: $("#section-4").offset().top
-        }, 800);
+        }, 1400);
     });
     
 })

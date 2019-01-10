@@ -303,6 +303,16 @@ form {
     .service-desc {
         height: 60%;
     }
+    #h-text {
+        font-size: 3.5em!important;
+    }
+
+    #floating-text {
+        top: -75%;
+    }
+    nav {
+        margin-top: 1em!important;
+    }
 }
 
 @media only screen and (max-width: 767px) {
@@ -338,5 +348,6 @@ form {
       form {
           margin-left: 10%;
       }
+   
 
 }
