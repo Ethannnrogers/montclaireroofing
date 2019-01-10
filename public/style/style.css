@@ -315,6 +315,18 @@ form {
     }
 }
 
+@media only screen and (max-height: 660px) {
+    #floating-text {
+        top: -60%;
+    }
+}
+
+@media only screen and (max-height: 550px) {
+    #floating-text {
+        top: -50%;
+    }
+}
+
 @media only screen and (max-width: 767px) {
     .service-desc {
         height: 60%;
